@@ -1,0 +1,19 @@
+{
+  "name": "cube",
+  "version": "1.0.0",
+  "description": "text-editor for cube project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shogun45/cube.git"
+  },
+  "author": "Maciejak Matthieu <maciejakmatthieu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shogun45/cube/issues"
+  },
+  "homepage": "https://github.com/Shogun45/cube#readme"
+}
